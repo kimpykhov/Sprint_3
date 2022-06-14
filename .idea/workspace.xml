@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0655ae0a-c8a8-4bfd-894b-96b9ea9a79aa" name="Changes" comment="Sprint_3">
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.15.0/bin/allure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.15.0/bin/allure.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.15.0/config/allure-cucumber.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.15.0/config/allure-junit.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.allure/allure-2.15.0/config/allure.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27vQAItoPs5uqAX1CuGICPuWqdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.yandex.sprint3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CreateCourierTest.testCourierCreatReturnErrorIfNoOneField">
+    <configuration name="CreateCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.sprint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.sprint3" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.sprint3.CreateCourierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCourierTest.testCourierCreatReturnErrorIfNoOneField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.sprint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.sprint3" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.sprint3.CreateCourierTest" />
+      <option name="METHOD_NAME" value="testCourierCreatReturnErrorIfNoOneField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderParamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.sprint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.sprint3" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.sprint3.CreateOrderParamTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest.testLoginCourierReturnId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.sprint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.sprint3" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.sprint3.LoginCourierTest" />
+      <option name="METHOD_NAME" value="testLoginCourierReturnId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCourierTest.testNonExistUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.yandex.sprint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.yandex.sprint3" />
+      <option name="MAIN_CLASS_NAME" value="ru.yandex.sprint3.LoginCourierTest" />
+      <option name="METHOD_NAME" value="testNonExistUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateCourierTest.testCourierCreatReturnErrorIfNoOneField" />
+        <item itemvalue="JUnit.CreateOrderParamTest" />
+        <item itemvalue="JUnit.CreateCourierTest" />
+        <item itemvalue="JUnit.LoginCourierTest.testLoginCourierReturnId" />
+        <item itemvalue="JUnit.LoginCourierTest.testNonExistUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0655ae0a-c8a8-4bfd-894b-96b9ea9a79aa" name="Changes" comment="" />
+      <created>1650197936444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650197936444</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Sprint_3">
+      <created>1655060472979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655060472979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sprint_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint_3" />
+  </component>
+</project>

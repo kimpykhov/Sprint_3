@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.thegoate:rest:0.15.8.202203012210">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thegoate/rest/0.15.8.202203012210/rest-0.15.8.202203012210.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thegoate/rest/0.15.8.202203012210/rest-0.15.8.202203012210-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thegoate/rest/0.15.8.202203012210/rest-0.15.8.202203012210-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
